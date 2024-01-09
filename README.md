@@ -9,7 +9,7 @@ This repository showcases a collection of some of my projects and provides infor
 - [About Me](#about-me)
 - [Contact](#contact)
 
-### [Project 1: Heart Disease prediction]([link-to-project-repository](https://github.com/luizguilhermedev/myportfolio/tree/main/h-disease-project))
+### [Project 1: Heart Disease prediction](https://github.com/luizguilhermedev/myportfolio/tree/main/h-disease-project))
 "A machine learning model designed to predict whether a patient has heart disease or not."
 
 ## Skills
