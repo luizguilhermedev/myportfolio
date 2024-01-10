@@ -12,7 +12,7 @@ This repository showcases a collection of some of my projects and provides infor
 ### [Project 1: Heart Disease prediction](https://github.com/luizguilhermedev/myportfolio/tree/main/h-disease-project))
 A machine learning model designed to predict whether a patient has heart disease or not.
 
-### [Project 1: Heart Disease prediction](https://github.com/luizguilhermedev/myportfolio/tree/main/price-prediction-project))
+### [Project 2: Bulldozer price prediction](https://github.com/luizguilhermedev/myportfolio/tree/main/price-prediction-project))
 A study to train a machine learning model to predict bulldozer's price
 
 ## Skills
