@@ -33,7 +33,22 @@ An awesome project from HuggingFace Deep RL, where we've used Deep RL algorithms
 
 ## About Me
 
-I am a dedicated and passionate Python developer currently pursuing a Bachelor's degree in Computer Science. With a keen interest in the intersection of technology and innovation, I have actively engaged in honing my skills and contributing to the field of software development.
+Computer science Bachelor student
+specializing in machine learning and
+deep learning technologies. Proficient
+in Python programming with strong
+knowledge in pandas, NumPy, Scikit-
+learn, TensorFlow, and Keras.
+Experienced in Convolutional Neural
+Networks (CNNs), Recurrent Neural
+Networks (RNNs), computer vision
+(CV), and natural language processing
+(NLP). Dedicated to leveraging data-
+driven insights to tackle complex
+challenges and drive innovation. Eager
+to contribute to the development of
+impactful solutions as a machine
+learning engineer.
 
 ## Contact
 
