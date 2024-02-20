@@ -37,5 +37,5 @@ I am a dedicated and passionate Python developer currently pursuing a Bachelor's
 
 ## Contact
 
-- **Email:** luizg_dev@outlook.com
+- **Email:** luizguilhermemilaredev@gmail.com
 - **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/luiz-guilherme-milaré-herculiani-gomes-391a571ab)
