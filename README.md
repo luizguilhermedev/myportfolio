@@ -9,16 +9,19 @@ This repository showcases a collection of some of my projects and provides infor
 - [About Me](#about-me)
 - [Contact](#contact)
 
-### [Project 1: Heart Disease prediction](https://github.com/luizguilhermedev/myportfolio/tree/main/h-disease-project))
+### [Project Heart Disease prediction](https://github.com/luizguilhermedev/myportfolio/tree/main/h-disease-project)
 A machine learning model designed to predict whether a patient has heart disease or not.
 
-### [Project 2: Bulldozer price prediction](https://github.com/luizguilhermedev/myportfolio/tree/main/price-prediction-project))
+### [Project Bulldozer price prediction](https://github.com/luizguilhermedev/myportfolio/tree/main/price-prediction-project)
 A study to train a machine learning model to predict bulldozer's price
 
-### [Projetct 3: Dog breed identifier]
+### [Project Dog breed identifier]
 
-### [Project 4: Lunar Lander](https://github.com/luizguilhermedev/myportfolio/tree/main/lunar-lander))
+### [Project Lunar Lander](https://github.com/luizguilhermedev/myportfolio/tree/main/lunar-lander)
 An awesome project from HuggingFace Deep RL, where we've used Deep RL algorithms to make an Agent(AI) learn how to land a Lunar lander in this classic game.
+
+### [Project Rag with Gemma2b](https://github.com/luizguilhermedev/myportfolio/tree/main/gemma2b_rag)
+This project explores the potential of the Retrieval-Augmented Generation (RAG) architecture for fine-tuning Large Language Models (LLMs) on specific tasks and contexts. We demonstrate this by implementing RAG with LangChain and GEMMA models.
 
 ## Skills
 
