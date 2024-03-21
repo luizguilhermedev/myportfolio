@@ -25,35 +25,25 @@ This project explores the potential of the Retrieval-Augmented Generation (RAG) 
 
 ## Skills
 
-- **Programming Languages:** Proficient in Python, with a focus on clean and efficient code.
-- **Oriented Object Programming**
-- **Machine Learning:** Actively studying and applying machine learning algorithms for data analysis and  predictive                           modeling.
-- **Pandas**
-- **NumPy**
-- **Deep Learning:** Familiarity with deep learning frameworks such as TensorFlow and PyTorch.
-- **MySQL**
-- **SQL**
+
+🐍 Programming Languages: Proficient in Python, emphasizing clean and efficient code.
+
+🎯 Object-Oriented Programming: Expertise in designing and implementing efficient OOP solutions.
+
+🤖 Artificial Intelligence: Actively engaged in implementing advanced algorithms, including neural networks (NN), convolutional neural networks (CNN), and recurrent neural networks (RNN), for predictive modeling and data analysis using TensorFlow, Keras, and PyTorch. Additionally, I possess experience in creating and fine-tuning Large Language Models (LLMs) using Retrieval-Augmented Generation (RAG) techniques. This allows me to leverage external knowledge sources to enhance the accuracy and context-awareness of my responses for specific tasks.
+
+📊 Data Manipulation: Expertise in leveraging Pandas for seamless data preprocessing and manipulation, essential for preparing datasets for machine learning tasks. Proficient in SQL for querying and managing relational databases.
+
+🔢 Numeric Computing: Proficient in NumPy for numerical operations and computations, ensuring efficient processing of large-scale data in machine learning pipelines.
 
 ## About Me
 
-Computer science Bachelor student
-specializing in machine learning and
-deep learning technologies. Proficient
-in Python programming with strong
-knowledge in pandas, NumPy, Scikit-
-learn, TensorFlow, and Keras.
-Experienced in Convolutional Neural
-Networks (CNNs), Recurrent Neural
-Networks (RNNs), computer vision
-(CV), and natural language processing
-(NLP). Dedicated to leveraging data-
-driven insights to tackle complex
-challenges and drive innovation. Eager
-to contribute to the development of
-impactful solutions as a machine
-learning engineer.
+A dedicated Computer Science student currently pursuing my Bachelor's degree, I am deeply passionate about the intersection of technology and innovation, particularly in the realms of Artificial Intelligence (AI) and Deep Learning (DL).
+Proficient in Python, I possess a strong command of both Object-Oriented Programming (OOP) and Functional Programming paradigms, employing these skills to develop robust solutions.
+My academic focus revolves around AI and deep learning, where I have gained hands-on experience working with various neural network architectures including NNs, CNNs, and RNNs. Additionally, I am well- versed in a multitude of AI and DL frameworks and libraries such as TensorFlow, Keras, PyTorch, Huggingface, scikit-learn, and LangChain.
+
 
 ## Contact
 
 - **Email:** luizguilhermemilaredev@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/luiz-guilherme-milaré-herculiani-gomes-391a571ab)
+- **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/luiz-guilherme-herculiani)
