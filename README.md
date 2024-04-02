@@ -15,7 +15,7 @@ A machine learning model designed to predict whether a patient has heart disease
 ### [Project Bulldozer price prediction](https://github.com/luizguilhermedev/myportfolio/tree/main/price-prediction-project)
 A study to train a machine learning model to predict bulldozer's price
 
-### [Project Dog breed identifier]
+### [Project Dog breed identifier](https://github.com/luizguilhermedev/myportfolio/tree/main/dog_breed_identification)
 
 ### [Project Lunar Lander](https://github.com/luizguilhermedev/myportfolio/tree/main/lunar-lander)
 An awesome project from HuggingFace Deep RL, where we've used Deep RL algorithms to make an Agent(AI) learn how to land a Lunar lander in this classic game.
