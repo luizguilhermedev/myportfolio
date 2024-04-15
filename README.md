@@ -11,11 +11,9 @@ This repository showcases a collection of some of my projects and provides infor
 
 ### [Project Heart Disease prediction](https://github.com/luizguilhermedev/myportfolio/tree/main/h-disease-project)
 A machine learning model designed to predict whether a patient has heart disease or not.
+
 ### [Project Asteroid Classification](https://github.com/luizguilhermedev/myportfolio/tree/main/asteroid_hazard_prediction)
 A machine learning project designed to predict if an asteroid is hazardous or not.
-
-### [Project Bulldozer price prediction](https://github.com/luizguilhermedev/myportfolio/tree/main/price-prediction-project)
-A study to train a machine learning model to predict bulldozer's price
 
 ### [Project Dog breed identifier](https://github.com/luizguilhermedev/myportfolio/tree/main/dog_breed_identification)
 
