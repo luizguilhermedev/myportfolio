@@ -23,6 +23,9 @@ An awesome project from HuggingFace Deep RL, where we've used Deep RL algorithms
 ### [Project Rag with Gemma2b](https://github.com/luizguilhermedev/myportfolio/tree/main/gemma2b_rag)
 This project explores the potential of the Retrieval-Augmented Generation (RAG) architecture for fine-tuning Large Language Models (LLMs) on specific tasks and contexts. We demonstrate this by implementing RAG with LangChain and GEMMA models.
 
+### [Talk to your PDF](https://github.com/luizguilhermedev/myportfolio/tree/main/talkToPDF_Gemma_RAG)
+This project builds a comprehensive system that allows users to interact with and retrieve information from PDFs using a Retrieval-Augmented Generation (RAG) approach powered by the Gemma-2b large language model (LLM) and LangChain, a Python library for building AI workflows.
+
 ## Skills
 
 
